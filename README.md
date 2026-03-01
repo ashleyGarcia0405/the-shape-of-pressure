@@ -1,4 +1,4 @@
-# Sailing Squeeze Maneuver Visualizer
+# The Shape of Pressure
 
 An animated sailing tactics display running on an ESP32 TTGO T-Display. The screen shows three boats (W2, M2, L2) sailing upwind toward a mark and loops through the classic **squeeze** maneuver: the windward boat (W2) luffs and the leeward boat (L2) pinches, trapping the middle boat (M2) in dirty air and stalling its progress.
 
